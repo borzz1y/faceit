@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FACEIT Coach</title>
+  <meta name="description" content="FACEIT Coach — a project for CS2 players to review their performance and improve their game.">
+</head>
+<body>
+  <main>
+    <h1>FACEIT Coach</h1>
+    <p>A project designed to help CS2 players review their performance and improve their gameplay.</p>
+    <p>Currently in development.</p>
+  </main>
+</body>
+</html>
